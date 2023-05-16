@@ -1,0 +1,148 @@
+.body{
+    height: 100%;
+    overflow:hidden;
+}
+.logo{
+    float: left;
+    vertical-align: baseline;
+    padding-left: 120px;
+    list-style: none;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+.nav ul {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+    justify-content: flex-end;
+    padding-right: 100px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+.nav ul li{
+    padding: 0px 10px;
+}
+.list-item{
+    margin-bottom: 10px;
+    cursor: pointer;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.nav ul li:hover {
+    background: #222;
+    color: #ccc;
+}
+.nav ul li:hover a{
+    background: #222;
+    color: #ccc;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.button{
+    box-shadow: 0px 1px 2px 0px black;
+    border-radius: 10px;
+    
+    background-color: white;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+.title1{
+    /*padding-left: 120px;
+   /* padding-top: 50px;*/
+    width: 250px;
+    font-size: 50px;
+}
+.image{
+    width: 520px;
+    height: 520px;
+}
+.secT{
+    padding-left: 200px;
+}
+.fstT{
+    padding-left: 120px;
+}
+.exp{
+    color: darkblue;
+    border-radius: 10px;
+    padding: 5px 5px; 
+    
+}
+h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+.dosha2{
+    padding-left: 120px;
+}
+.dosha{
+    margin-top: 50px;
+    padding-left: 120px;
+    padding-right: 200px;
+    width: 1000px;
+    height: 1px;
+}
+.dosha p, ul{
+    font-size: large;
+}
+.pillar{
+    padding-left: 120px;
+}
+.a{
+    font-family: 'Courier New', Courier, monospace;
+}
+/*.dosh {
+    border: 1px solid black;
+    padding:15px;
+}*/
+.alt{
+    padding-right: 100px;
+    padding-bottom: 5px;
+    /*border: 1px solid black;*/
+}
+.alt1{
+    padding-right: 100px;
+    padding-bottom: 5px;
+    /*border: 1px solid black;*/
+    background-color: rgb(155, 207, 200);
+}
+table{
+    border-spacing: 15px;
+}
+
+.tab{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+a{
+    margin-left: 20px;
+}
+.pr{
+    font-size: large;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ama_body{
+    text-align: center;
+    margin: auto;
+}
+.b{
+    margin-top: 100px;
+}
+.sidebar{
+    width: 180px;
+    min-height: 100%;
+    background-color: #111827;
+    color: #9ca3af;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px;
+}
+.fp{
+    padding-left: 120px;
+}

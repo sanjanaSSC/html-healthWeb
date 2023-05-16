@@ -1,10 +1,21 @@
-.button{
+.body{
+    width: 100%;
+    overflow: hidden;
+}.logo{
     float: left;
+    vertical-align: baseline;
+    padding-left: 120px;
+    list-style: none;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
 }
+
 .img{
     float: left;
     width: 600px;
     height: 800px;
+    float: left;
+   
 }
 .nav ul {
     padding-top: 20px;
@@ -34,6 +45,12 @@
     background: #222;
     color: #ccc;
 }
+h1{
+    position: absolute;
+    padding-right: 100px;
+    padding-top: 100px;
+    float: left;
+}
 a{
     text-decoration: none;
     color: black;
@@ -45,4 +62,47 @@ a{
     background-color: white;
     font-family: 'Lato', sans-serif;
     font-weight: 300;
+}
+.r1Img
+{
+    width: 200px;
+    height: 300px;
+    border-radius: 8px;
+    cursor: pointer;
+   
+}
+.salad{
+    padding: 50px;
+}
+.slider{
+    overflow: hidden;
+}
+.sliderWrap{
+    transition: all 1s ease-in-out;
+}
+/*.r1Img::after{
+    width: 200px;
+    height: 300px;
+    box-sizing: border-box;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-property: all;
+}*/
+
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-image:none ;
+    list-style: none;
+    justify-content: space-around;
+    list-style-position:outside ;
+    box-sizing: border-box;
+}
+.flexItem{
+    flex-basis: 23.3%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
 }
