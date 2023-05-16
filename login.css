@@ -11,6 +11,14 @@
     background-position: center;
     background-size: cover;
 }
+.logo{
+    float: left;
+    vertical-align: baseline;
+    padding-left: 120px;
+    list-style: none;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
 .nav ul {
     padding-top: 50px;
     display: flex;
