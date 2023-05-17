@@ -1,0 +1,89 @@
+.header{
+    overflow: hidden;
+    text-align: center;
+    background-color: #ABC270; ;
+}
+.logo1{
+    float: left;
+    vertical-align: baseline;
+    padding-left: 120px;
+    list-style: none;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+}
+.logo2{
+    float: left;
+    vertical-align: baseline;
+    list-style: none;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-left: 7px;
+}
+.nav ul {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+    justify-content: flex-end;
+    padding-right: 100px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+.nav ul li{
+    padding: 0px 10px;
+}
+.list-item{
+    margin-bottom: 10px;
+    cursor: pointer;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
+.nav ul li:hover {
+    background: #222;
+    color: #ccc;
+}
+.nav ul li:hover a{
+    background: #222;
+    color: #ccc;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.sym{
+   
+}
+.products{
+    border-spacing: 35px;
+    padding-left: 220px;
+}
+.add{
+    border-radius: 95px;
+    padding: 10px;
+    margin-right: 10px;
+    
+    cursor: pointer;
+}
+.add:hover{
+    background-image: linear-gradient(green,#ABC270);
+    color: white;
+}
+.foot{
+    background-color: #222;
+    color: white;
+}
+.list{
+    list-style: none;
+    line-height: 2.5em;
+}
+.end{
+    padding-left: 200px;
+}
+.row{
+    padding-right: 50px;
+}
+.row2{
+    padding-left: 40px;
+}

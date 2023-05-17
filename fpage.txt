@@ -1,0 +1,103 @@
+<tr>
+                <td>
+                    <img src="https://cdn-icons-png.flaticon.com/128/1347/1347284.png">
+                    <h2 class="a">The Five Elements</h2>ite
+                </td>
+                <td class="def">
+                    <p>Ayurveda recognises five elements as the fundamental building blocks of nature</p>
+                    <ul>
+                        <li>Earth</li>
+                        <li>Water</li>
+                        <li>Fire</li>
+                        <li>Air</li>
+                        <li>Ether</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+    </div>
+        
+        <br>
+    
+
+    </div>
+    <div class="dosha2">
+        <img class="b" src="https://www.flaticon.com/free-icon/ayurveda_5122821">
+        <h2 class="a">The Three Doshas</h2>
+        <ol>
+            <li><h3><a href="vata.html">Vata</a></h3></li>
+            <h5>The Energy of MOVEMENT</h5>
+            <li><h3><a href="pitta.html">Pitta</a></h3></li>
+            <h5>The Energy of DIGESTION and METABOLISM</h5>
+            <li><h3><a href="kapha.html">Kapha</a></h3></li>
+            <h5>The Energy of LUBRICATION</h5>
+        </ol>
+    </div>
+        
+        <br>
+        <div class="fp">
+            <img class="b" src="https://cdn-icons-png.flaticon.com/128/1330/1330482.png">
+        <h2 class="a">The Twenty Qualities</h2>
+        <table class="dosh">
+            <tr>
+                <td class="alt">Heavy</td>
+                <td class="alt1">Light</td>
+            </tr>
+            <tr>
+                <td class="alt1">Slow(dull)</td>
+                <td class="alt">Sharp(penetrating)</td>
+            </tr>
+            <tr>
+                <td class="alt">Cold</td>
+                <td class="alt1">Hot</td>
+            </tr>
+            <tr>
+                <td class="alt1">Oily</td>
+                <td class="alt">Dry</td>
+            </tr>
+            <tr>
+                <td class="alt">Smooth</td>
+                <td class="alt1">Rough</td>
+            </tr>
+            <tr>
+                <td class="alt1">Dense</td>
+                <td class="alt">Liquid</td>
+            </tr>
+            <tr>
+                <td class="alt">Soft</td>
+                <td class="alt1">Hard</td>
+            </tr>
+            <tr>
+                <td class="alt1">Stable</td>
+                <td class="alt">Mobile</td>
+            </tr>
+            <tr>
+                <td class="alt">Gross</td>
+                <td class="alt1">Subtle</td>
+            </tr>
+            <tr>
+                <td class="alt1">Cloudy(sticky)</td>
+                <td class="alt">Clear</td>
+            </tr>
+        </table>
+        <img class="b" src="https://cdn-icons-png.flaticon.com/128/4656/4656946.png">
+        <h2 class="a">The Three Pillars Of Life</h2>
+        <ul>
+            <li><a href="food.html">Food</a></li>
+            <li><a href="sleep.html">Sleep</a></li>
+            <li><a href="energy.html">Sexual energy</a></li>
+        </ul>
+ 
+        <a href="agni.html">Agni</a>
+        <a href="ama.html">Ama</a>
+        
+        
+        <img class="b" src="https://www.flaticon.com/free-icon/herb_1653063">
+        <h2 class="a">KAYACHIKITSA</h2>
+        <h4>Branch of <strong>INTERNAL MEDICINE</strong></h4>
+        <p>Treatment of diseases from improper digestion</p>
+        <img class="b" src="https://cdn-icons-png.flaticon.com/128/2895/2895722.png">
+        <h2 class="a"><a href=disease.html>DISEASE</a></h2>
+    
+</th>
+</tr>
