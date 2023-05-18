@@ -89,15 +89,13 @@ a{
 
 .r1Img
 {
-    width: 200px;
-    height: 300px;
+    width: 300px;
+    height: 350px;
     border-radius: 8px;
     cursor: pointer;
    
 }
-.salad{
-    padding: 50px;
-}
+
 .slider{
     overflow: hidden;
 }
@@ -149,7 +147,7 @@ a{
 }
 .add{
     border-radius: 98px;
-    padding: 10px;
+    padding: 6px;
     padding-left: 15px;
     margin-right: 10px;
     
@@ -161,4 +159,20 @@ a{
 }
 .add a:hover{
     color: white;
+}
+.tab1{
+    padding-left: 93px;
+    margin-top: 100px;
+    border-spacing: 25px;
+}
+.tab1 tr{
+    width: 1100px;
+}
+.tab1 td{
+    width: 250px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 5px;
+    padding-bottom: 9px;
+    border-radius: 20px;
 }
