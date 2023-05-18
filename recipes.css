@@ -86,7 +86,30 @@ a{
     left: 16px;
   background-color: #608011;
 }
-
+.topnav{
+  
+    margin-top: 70px;
+  
+}
+.topnav input{
+    width: 1050px;
+    margin-left: 120px;
+    border-radius: 30px;
+    height: 30px;
+    padding-left: 20px;
+    border: none;
+    background-color: #ccc;
+}
+.menu li{
+    padding: 10px 10px;
+    list-style: none;
+    cursor: pointer;
+    font-size: large;
+    font-family: Hind, sans serif;
+}
+.menu li:hover{
+    color: green;
+}
 .r1Img
 {
     width: 300px;
@@ -175,4 +198,8 @@ a{
     padding-top: 5px;
     padding-bottom: 9px;
     border-radius: 20px;
+}
+.footr{
+    font-family: 'Nunito Sans', sans-serif;
+
 }
